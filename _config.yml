@@ -11,7 +11,7 @@ url:                 'https://crs4.github.io/galaxy-training-izs3'
 baseurl:             ''
 twitter_username:
 github_username:  crs4
-pages_url: https://crs4.github.io/galaxy-training_izs3
+pages_url: https://crs4.github.io/galaxy-training-izs3
 github_url: https://github.com/crs4/galaxy-training-izs3
 
 # Custom vars
