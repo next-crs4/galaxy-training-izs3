@@ -1,4 +1,6 @@
-# Welcome!
+# Training course on Galaxy for metagenomic analysis on targeting and whole genome data 
+
+## Welcome!
 
 
 - Why are we here?
@@ -9,7 +11,6 @@
 
 - What would you like to take home from the course?
 
----
 
 ## Learning outcomes
 
@@ -23,7 +24,6 @@
 - Using a mock community to assess the error rate of your sequencing experiment
 - Visualize sample diversity using Krona and Phinch
 
----
 
 ## Computing resources
 
@@ -31,14 +31,13 @@ The computing resources for this training have been provided by the
 CRS4 datacenter
 
 
-[<img src="{{site.url}}/images/CRS4-HPC-logo.png" width="600">](https://www.crs4.it/services/high-performance-computing/)
+!["/images/CRS4-HPC-logo.png"](https://www.crs4.it/services/high-performance-computing/)
 
 
 You will receive all the details to connect to Galaxy Instance: [https://izs3.crs4.it](https://izs3.crs4.it)
 
----
 
-### Agenda
+## Agenda
 
 **April 18-20, 2023**
 
@@ -51,6 +50,4 @@ Title | Lecture/Practical
 **Introduction to Metagenomics** | Lecture 
 **Analyses of Metagenomics Data** | Lecture / Practical
 **16S Microbial Analysis with mothur** |  Practical
-
-
 
