@@ -1,5 +1,6 @@
 # Training course on Galaxy for metagenomic analysis on targeting and whole genome data 
 
+[ https://next-crs4.github.io/galaxy-training-izs3]( https://next-crs4.github.io/galaxy-training-izs3)
 ## Welcome!
 
 
@@ -29,10 +30,6 @@
 
 The computing resources for this training have been provided by the
 CRS4 datacenter
-
-
-!["/images/CRS4-HPC-logo.png"](https://www.crs4.it/services/high-performance-computing/)
-
 
 You will receive all the details to connect to Galaxy Instance: [https://izs3.crs4.it](https://izs3.crs4.it)
 
