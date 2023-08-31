@@ -195,6 +195,7 @@ you can instruct Galaxy to directly fetch the data from a given URL.
 
 
 <img src="{{site.url}}/images/get_data_direct_collection3.png" width="100%">
+<img src="{{site.url}}/images/get_data_direct_collection1.png" width="100%">
 
 
 <p style="text-align:right"><a href="{{site.url}}{{page.url}}"><strong>Go Up</strong><span class="fa fa-fw fa-arrow-up"></span></a></p>
