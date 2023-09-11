@@ -15,7 +15,7 @@ pages_url: https://next-crs4.github.io/galaxy-training-izs3
 github_url: https://github.com/next-crs4/galaxy-training-izs3
 
 # Custom vars
-version:             23.03
+version:             23.09
 
 # Build settings
 markdown: kramdown
