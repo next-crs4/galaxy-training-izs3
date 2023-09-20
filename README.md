@@ -60,7 +60,6 @@ Title | Lecture / Practical
 **Analyses of Metagenomics Data** | Lecture / Pracctical
 **16S Microbial Analysis with mothur** |  Practical
 
----
 
 ### **September 26-28, 2023**
 
